@@ -8,3 +8,6 @@ button {
 button:hover {
     background-color: #d1223b;
 }
+iframe {
+    max-width: 100%;
+}
