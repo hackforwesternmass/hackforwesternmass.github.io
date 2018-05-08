@@ -10,9 +10,9 @@ We work closely with organizations to identify and define projects. Then we'll f
 
 Some of the organizations we've worked with in the past include the Food Bank, the David Ruggle Center, the Center for New Americans, Dial/Self, the Prison Policy Initiative, the Literacy Project, the South Hadley Food Pantry, Girls Inc. of Holyoke, the Hilltown Seed Saving Network, Rick's Place, CISA, and more. See our [projects on GitHub](https://github.com/hackforwesternmass).
 
-Do you know an organization working on issues that affect our community that could use help from local technology professionals? We want to help you!
+Do you know an organization working on issues that affect our community that could use help from local technology professionals? We can help you.
 
-<button>Propose a Project</button>
+<a class="button" href="https://andrew629.typeform.com/to/qw4KPm">Propose a Project</a>
   
 
   
