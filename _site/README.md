@@ -1,3 +1,28 @@
+# Think Globally, Hack Locally
+
+### BACKGROUND
+
+On weekends in June 2013, 2014 and 2015, web and software developers, designers, community organizers, and other folks from all over Western Mass gathered to tackle local challenges with technology. Hack for Western Mass was one of many events happening nationwide as part of the National Day of Civic Hacking, an annual event held in June.
+
+While a rewarding experience for all involved, it became clear to those participating that it takes more than a weekend to produce something of lasting value and to fulfill the mission of creating truly useful solutions to help solve challenges relevant to our neighborhoods, our cities, our states and our country. 
+
+### A NEW APPROACH THIS YEAR
+
+So this year Hack for Western Mass is taking a different approach - more of a marathon than a sprint.  The plan is for groups of people to meet over an extended period of time to create the solution they choose to work on. 
+
+Our first organization meeting of the year, Activate: Hack for Western Mass, occurred on December 1.  Approximately 25 people attended. Suggestions were made for topics to work on.  Those topics were voted on, and three were chosen (so far):
+
+Fake News
+Education
+Poverty & Food
+Groups were formed to discuss these three topic areas and how to proceed on them.  Those groups will continue to meet to determine a exactly how they would like to take on their topic, and eventually start coding!  
+
+New people please share your contact info here: http://bit.ly/h4wm-register
+
+
+
+## BELOW IS FROM ORIGINAL DEFAULT README
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hackforwesternmass/hackforwesternmass.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
